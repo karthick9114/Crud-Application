@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2,
+    "name": "Karan",
+    "age": 30,
+    "city": "Erode"
+  },
+  {
+    "id": 3,
+    "name": "Vijay",
+    "age": 45,
+    "city": "Chennai"
+  },
+  {
+    "id": 4,
+    "name": "Ajith",
+    "age": 34,
+    "city": "Madurai"
+  },
+  {
+    "id": 8,
+    "name": "Sandy",
+    "age": 13,
+    "city": "Chennai"
+  },
+  {
+    "id": 9,
+    "name": "Mahendran",
+    "age": 34,
+    "city": "Nammakal"
+  },
+  {
+    "id": 10,
+    "name": "Mohan",
+    "age": 56,
+    "city": "Bengaluru"
+  },
+  {
+    "id": 1718624386487,
+    "name": "Nisanth",
+    "age": "19",
+    "city": "Tirupur"
+  },
+  {
+    "id": 1718624919598,
+    "name": "Praveen",
+    "age": "27",
+    "city": "Mumbai"
+  }
+]
